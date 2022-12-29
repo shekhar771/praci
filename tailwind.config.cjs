@@ -11,6 +11,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        darkMode: {
+          DEFAULT: '#0f172a',
+        },
+
         primary: '#00040f',
         secondary: '#00f6ff',
         dimWhite: 'rgba(255, 255, 255, 0.7)',
